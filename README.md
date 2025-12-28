@@ -13,9 +13,5 @@ This repository features a research assignment exploring the **mechanical behavi
 
 
 
-###  Document Details
 
-* **Institution**: East West University 
-* **Course**: Engineering Chemistry-1 (CHE-109) 
-* **Focus**: Materials Science & Chemical Engineering 
 
